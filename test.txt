@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 2CAE-CA70
+
+ Directory of D:\Data\Vijay\Git\MyProject
+
+24-03-2018  17:54    <DIR>          .
+24-03-2018  17:54    <DIR>          ..
+24-03-2018  17:53    <DIR>          .git
+24-03-2018  17:54                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  125,411,323,904 bytes free
